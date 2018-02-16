@@ -1,0 +1,24 @@
+Linux Commands:
+ls // listing directory contents
+cd // changing the working directory
+cd .. // move backwards to prev. dir.
+mkdir // make directory
+rmdir // remove directory
+touch // create empty file (imbue life)
+rm <file> // remove file
+gedit <filename> & // run gedit in terminal
+sudo startunity -X xorg
+javac <ClassName>.java // compile .java file
+java <ClassName> // run class (program)
+
+public class One {
+  public static void main(String[] args) {
+    System.out.print("Hello");
+    System.out.println("World");
+  }
+}
+
+Output:
+HelloWorld
+
+// imagine ln means put a line at the end of whatever follows
